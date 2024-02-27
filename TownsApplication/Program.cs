@@ -18,7 +18,10 @@ namespace TownsApplication
                 Console.WriteLine("2. Update a Town's Population");
                 Console.WriteLine("3. Delete a Town");
                 Console.WriteLine("4. List All Towns");
+
                 Console.WriteLine("5. Exit");
+                
+                // 
 
                 Console.Write("Enter your choice: ");
                 string choice = Console.ReadLine();
